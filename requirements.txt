@@ -1,4 +1,2 @@
-fastapi
-uvicorn
-huggingface_hub
-Pillow
+flask
+gunicorn
